@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.befj.appproyectmovil.app-mergeDebugResources-29:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\yuri Lopez\\.gradle\\caches\\transforms-4\\0a058b75c269d2d3277f201c4768458b\\transformed\\appcompat-1.7.0\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    }
+                }
+            ]
+        }
+    ]
+}

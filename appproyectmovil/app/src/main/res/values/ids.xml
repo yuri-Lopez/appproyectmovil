@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="mnit_administrardatos" type="id" />
+    <item name="tv_apellidoadministrardatos" type="id" />
+    <item name="tv_documentoadministrardatos" type="id" />
+    <item name="tv_correoelectronicoadministrardatos" type="id" />
+    <item name="tv_planillaseguridadsocialadministrardatos" type="id" />
+    <item name="bnv_menuapp" type="id" />
+    <item name="tv_telefonoadministrardatos" type="id" />
+</resources>

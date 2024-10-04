@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="red">#FF1414</color>
+    <color name="white">#FFFFFFFF</color>
+    <item name="bnv_menuapp" type="id"/>
+    <item name="mnit_administrardatos" type="id"/>
+    <item name="tv_apellidoadministrardatos" type="id"/>
+    <item name="tv_correoelectronicoadministrardatos" type="id"/>
+    <item name="tv_documentoadministrardatos" type="id"/>
+    <item name="tv_planillaseguridadsocialadministrardatos" type="id"/>
+    <item name="tv_telefonoadministrardatos" type="id"/>
+    <string name="app_name">appproyectmovil</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="iniciar_sesion">Iniciar sesion</string>
+    <string name="textview"/>
+    <string name="todo"/>
+    <style name="Base.Theme.appproyectmovil" parent="Theme.Material3.DayNight.NoActionBar">
+    
+    
+</style>
+    <style name="Theme.appproyectmovil" parent="Base.Theme.appproyectmovil"/>
+</resources>
